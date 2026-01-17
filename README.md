@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I am a pasionate developer
+Hi! I am a teenager studying in high school who is passionate about computers, tech and coding. Enjoy my projects!
 
 
 # 💻 Tech Stack:
